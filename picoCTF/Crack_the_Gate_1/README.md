@@ -1,4 +1,4 @@
-# Crack the Gate 1 writeup
+# Crack the Gate 1
 
 以下のシンプルなログインが表示される
 
